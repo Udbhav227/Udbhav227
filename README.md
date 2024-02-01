@@ -8,7 +8,7 @@ I'm an aspiring software engineer with a love for problem solving and exploring 
 <tr>
     <td colspan="2" align="center">
       <h3>📊 Stats</h3>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=udbhav227&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="My Github Stats"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=udbhav227&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="My Github Stats"/><br><h3></h3>
     </td>
   </tr>
 
