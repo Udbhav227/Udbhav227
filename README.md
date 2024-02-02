@@ -53,7 +53,7 @@ I'm an aspiring software engineer with a love for problem solving and exploring 
       <a href="https://discord.gg/TXQyqpVMeS">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" style="border-radius: 4px;" />
       </a>
-      <a href="https://www.instagram.com/udbhav_227">
+      <a href="https://www.instagram.com/bokuwaudbhav">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="border-radius: 4px;" />
       </a>
     </td>
