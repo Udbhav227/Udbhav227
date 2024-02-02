@@ -20,7 +20,7 @@ I'm an aspiring software engineer with a love for problem solving and exploring 
   <tr>
     <td align="center">
       <h3>💫 Fun Facts</h3>
-      <p>☕ The first programming language I used to print "Hello World" was <strong>Java</strong>.</p>
+      <p>↪️ The first programming language I used to print "Hello World" was <strong>C++</strong>.</p>
       <p>🍿 When I'm not coding or studying, you'll likely find me watching anime. I'm currently watching <strong>One Piece</strong>.</p>
       <p>✈️ I love to travel to new places.</p>
       <br/>
