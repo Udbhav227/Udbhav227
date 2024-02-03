@@ -1,4 +1,4 @@
-# ![My Github Banner](img/Banner2nd.png)
+# ![My Github Banner](img/Banner2.png)
 
 # 👋🏼 Hey, I'm Udbhav!
 
