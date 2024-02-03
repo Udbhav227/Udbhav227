@@ -4,7 +4,6 @@
 
 I'm an aspiring software engineer with a love for problem solving and exploring other domains.
 
-![snake gif](https://github.com/Udbhav227/Udbhav227/blob/output/github-contribution-grid-snake.gif)
 <table>
 <tr>
     <td colspan="2" align="center">
