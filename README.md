@@ -58,6 +58,3 @@ I'm an aspiring software engineer with a love for problem solving and exploring 
     </td>
   </tr>
 </table>
-
-<h3 align="left">Support me:</h3>
-<p><a href="https://www.buymeacoffee.com/udbhav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="udbhav" /></a></p>
