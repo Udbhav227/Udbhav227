@@ -63,3 +63,4 @@ I'm an aspiring software engineer with a love for problem solving.
     </td>
   </tr>
 </table>
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
