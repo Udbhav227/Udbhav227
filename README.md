@@ -2,7 +2,9 @@
 
 # 👋🏼 Hey, I'm Udbhav!
 
-I'm an aspiring software engineer with a love for problem solving and exploring other domains.
+I'm an aspiring software engineer with a love for problem solving.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Udbhav227&label=Profile%20views&color=0e75b6&style=flat" alt="Udbhac227" /> </p>
 
 <table>
 <tr>
@@ -42,9 +44,12 @@ I'm an aspiring software engineer with a love for problem solving and exploring 
     </td>
     <td align="left" valign="top">
       <h3 align="center">👷🏾‍♀️ Currently Building</h3>
-      <p>Currently, I am not working on any projects.</p>
+      <p>Working on myself</p>
     </td>
   </tr>
+  
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
   <tr>
     <td colspan="2" align="center">
