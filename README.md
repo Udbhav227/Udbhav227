@@ -28,7 +28,7 @@ I'm an aspiring software engineer with a love for problem solving.
     </td>
     <td align="center" valign="top">
       <h3>💻 Languages & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=java,linux,html,css,vscode,idea,eclipse,discord,git,github&perline=4" alt="Languages & Tools" style="text-align: center;" />
+      <img src="https://skillicons.dev/icons?i=java,linux,html,css,javascript,vscode,idea,eclipse,discord,git,github&perline=4" alt="Languages & Tools" style="text-align: center;" />
     </td>
   </tr>
 
