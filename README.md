@@ -2,17 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Hey%20Coders!🦩&fontAlign=50&fontAlignY=40&color=gradient" alt="Banner"/>
 </p>
 
-<i margin-top="0"><h1 align="center">Let's connect and have a chat!</h1></i>
+<i><h1 align="center">Let's connect and have a chat!</h1></i>
 
 <p align="center">
   <a href="https://www.instagram.com/ashishudbhav/">
     <img height="50" src="./images/instagram-2-1-logo-svgrepo-com.png"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ashishudbhav/">
+  <a href="mailto:college.udbhav227@gmail.com">
     <img height="52" src="./images/gmail-svgrepo-com.png"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/udbhav-ashish-arya-320773265/">
     <img height="50" src="./images/linkedin-linked-in-svgrepo-com.png"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/TXQyqpVMeS">
+    <img height="50" src="./images/discord-logo.png"/>
   </a>
 </p>
 
@@ -52,8 +55,8 @@
   
 <hr>
 
-<p  align="center">
-  <img src="https://komarev.com/ghpvc/?username=Udbhav227&label=Visitors&color=blueviolet&style=for-the-badge" alt="Visitor-count" 
+<p align="center">
+  <img height=32 src="https://komarev.com/ghpvc/?username=Udbhav227&label=Visitors&color=blueviolet&style=plastic" alt="Visitor-count" 
 </p>
   
 <p align="center">
