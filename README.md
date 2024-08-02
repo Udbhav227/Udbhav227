@@ -41,6 +41,13 @@
 
 <h2>Github Stats &nbsp;📊</h2>
 
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=udbhav227&show_icon=true&theme=transparent"/>
+</a> &nbsp;
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=udbhav227&layout=compact&langs_count=8&card_width=320&theme=transparent"/>
+</a>
+  
 <hr>
 
 <p  align="center">
