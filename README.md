@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/udbhav-ashish-arya-320773265/">
     <img height="50" src="./images/linkedin-linked-in-svgrepo-com.png"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/TXQyqpVMeS">
+  <a href="https://discord.com/invite/3s54HXaJEm">
     <img height="50" src="./images/discord-logo.png"/>
   </a>
 </p>
