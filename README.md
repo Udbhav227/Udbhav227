@@ -3,7 +3,6 @@
 </p>
 
 <i><h1 align="center">Let's connect and have a chat!</h1></i>
-
 <p align="center">
   <a href="https://www.instagram.com/ashishudbhav/">
     <img height="50" src="./images/instagram-2-1-logo-svgrepo-com.png"/>
@@ -19,15 +18,15 @@
   </a>
 </p>
 
-<h2> Few Things About Me &nbsp; 🌱</h2>
+<h2>About Me &nbsp; 🌱</h2>
 
-* 🧐 Interested in full stack.
-* ⛵ Interested in open source collaborations.
-* 🍿 Loves watching anime.
-* 🚀 Eager to learn and grow.
-* 🎓 Bachelor of Technology Undergrad in Computer Science and Information Technology.
+* 🧐 Exploring **full-stack web development** with focus on **Java + Spring Boot** and **React**.  
+* ⛵ Open-source enthusiast, looking for meaningful collaborations.  
+* 🍿 Loves anime (great way to recharge!).  
+* 🚀 Always experimenting, building, and learning.  
+* 🎓 Pursuing **B.Tech in Computer Science and IT**.
 
-<h2>Tools I Have Used and Learned &nbsp; ⚙️</h2>
+<h2>Tools & Technologies &nbsp; ⚙️</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github" alt="github" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"  alt="ubuntu" width="48" height="48"/>
@@ -43,15 +42,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="java" width="48" height="48"/>
 </p>
 
-<h2>Github Stats &nbsp;📊</h2>
+## Featured Projects 🔥 
 
+### 1) Verdle — Wordle Clone
+**Repo:** [`udbhav227/wordle-clone`](https://github.com/Udbhav227/wordle-clone) • **Live:** https://verdle.netlify.app  
+- Word guessing game implemented with **React** and **Vite**.  
+- Includes a clean UI and gameplay UX inspired by Wordle.  
+- Deployed on Netlify for quick access.
+
+### 2) Weather App
+**Repo:** [`udbhav227/weather-app`](https://github.com/Udbhav227/weather-app) • **Live:** https://udbhav227.github.io/weather-app/  
+- Vanilla **JavaScript** app bundled with **Webpack**.  
+- Uses **Visual Crossing** API to fetch real-time weather.  
+- Shows current conditions: temperature, humidity, wind, etc., with a city search and responsive layout.  
+- Licensed under **MIT**.
+
+### 3) Ascora — CV Application (WIP)
+**Repo:** [`udbhav227/ascora`](https://github.com/Udbhav227/ascora)  
+- A CV/Resume builder application (work-in-progress).  
+- JavaScript/CSS/HTML project scaffolded with **Vite**.  
+- Actively iterating on the editor and layout.
+
+
+<h2>Github Stats &nbsp;📊</h2>
 <p align="center">
-  <a href="#">
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=udbhav227&show_icon=true&theme=transparent&rank_icon=github"/>
-  </a>
-  <a href="#">
-    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=udbhav227&layout=compact&langs_count=8&card_width=320&theme=transparent"/>
-  </a>
+<img height=165 src="https://github-readme-stats.vercel.app/api?username=udbhav227&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats"/>
+  &nbsp;
+  &nbsp;
+<img height=165 src="https://github-readme-streak-stats.herokuapp.com/?user=udbhav227&theme=transparent" alt="GitHub Streak"/>
 </p>
   
 <hr>
