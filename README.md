@@ -66,10 +66,9 @@
 
 <h2>Github Stats &nbsp;📊</h2>
 <p align="center">
-<img height=165 src="https://github-readme-stats.vercel.app/api?username=udbhav227&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats"/>
+<img height=160 src="https://github-readme-stats.vercel.app/api?username=udbhav227&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats"/>
   &nbsp;
-  &nbsp;
-<img height=165 src="https://github-readme-streak-stats.herokuapp.com/?user=udbhav227&theme=transparent" alt="GitHub Streak"/>
+<img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=udbhav227&theme=transparent" alt="GitHub Streak"/>
 </p>
   
 <hr>
