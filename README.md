@@ -55,7 +55,6 @@
 - Vanilla **JavaScript** app bundled with **Webpack**.  
 - Uses **Visual Crossing** API to fetch real-time weather.  
 - Shows current conditions: temperature, humidity, wind, etc., with a city search and responsive layout.  
-- Licensed under **MIT**.
 
 ### 3) Ascora — CV Application (WIP)
 **Repo:** [`udbhav227/ascora`](https://github.com/Udbhav227/ascora)  
