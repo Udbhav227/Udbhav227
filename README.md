@@ -45,7 +45,7 @@
 <h2>Featured Projects 🔥 </h2>
 
 ### 1) Pokémon Memory Card Game
-**Repo:** [`udbhav227/memory-card`](https://github.com/Udbhav227/memory-card) • **Live:** https://github.com/Udbhav227/memory-card
+**Repo:** [`udbhav227/memory-card`]() • **Live:** https://gotta-click-em-all.netlify.app/
 - A memory game built with **React** and **Vite** where the goal is to click unique Pokémon cards each round.
 - Features multiple difficulty modes, custom pixel-style buttons, score tracking, and smooth animations.
 
@@ -63,10 +63,10 @@
 
 <h2>Github Stats &nbsp;📊</h2>
 <p align="center">
-<img height=160 src="https://github-readme-stats.vercel.app/api?username=udbhav227&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats"/>
-  &nbsp;
-<img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=udbhav227&theme=transparent" alt="GitHub Streak"/>
-</p>
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=udbhav227&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats"/>
+    &nbsp;
+  <img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=udbhav227&theme=transparent" alt="GitHub Streak"/>
+</p> 
   
 <hr>
 
