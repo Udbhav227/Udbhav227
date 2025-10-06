@@ -4,18 +4,14 @@
 
 <i><h1 align="center">Let's connect and have a chat!</h1></i>
 <p align="center">
-  <a href="https://www.instagram.com/ashishudbhav/">
-    <img height="50" src="./images/instagram-2-1-logo-svgrepo-com.png"/>
+    <a href="https://www.linkedin.com/in/udbhav-ashish/">
+    <img height="50" src="./images/linkedin-linked-in-svgrepo-com.png"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:college.udbhav227@gmail.com">
     <img height="52" src="./images/gmail-svgrepo-com.png"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/udbhav-ashish/">
-    <img height="50" src="./images/linkedin-linked-in-svgrepo-com.png"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/invite/3s54HXaJEm">
-    <img height="50" src="./images/discord-logo.png"/>
-  </a>
+    <a href="https://www.instagram.com/ashishudbhav/">
+    <img height="50" src="./images/instagram-2-1-logo-svgrepo-com.png"/>
 </p>
 
 <h2>About Me &nbsp; 🌱</h2>
