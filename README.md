@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Hey%20Coders!🦩&fontAlign=50&fontAlignY=40&color=gradient" alt="Banner"/>
 </p>
 
-<i><h1 align="center">Let's connect and have a chat!</h1></i>
+<!-- <i><h1 align="center">Let's connect and have a chat!</h1></i>
 <p align="center">
     <a href="https://www.linkedin.com/in/udbhav-ashish/">
     <img height="50" src="./images/linkedin-linked-in-svgrepo-com.png"/>
@@ -12,7 +12,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/ashishudbhav/">
     <img height="50" src="./images/instagram-2-1-logo-svgrepo-com.png"/>
-</p>
+</p> -->
 
 <h2>About Me &nbsp; 🌱</h2>
 
